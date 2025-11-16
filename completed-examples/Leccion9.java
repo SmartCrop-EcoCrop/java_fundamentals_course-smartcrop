@@ -1,5 +1,5 @@
 public class CuentaBancaria {
-    // ✅ PRIVATE - Solo accesible desde dentro de la clase
+    // PRIVATE - Solo accesible desde dentro de la clase
     private double saldo;
     private String titular;
     
@@ -13,7 +13,7 @@ public class CuentaBancaria {
         }
     }
     
-    // ✅ GETTER - Para leer el saldo de manera controlada
+    // GETTER - Para leer el saldo de manera controlada
     public double getSaldo() {
         return saldo;
     }
@@ -22,7 +22,7 @@ public class CuentaBancaria {
         return titular;
     }
     
-    // ✅ SETTER - Para modificar el saldo con validaciones
+    // SETTER - Para modificar el saldo con validaciones
     public void setSaldo(double nuevoSaldo) {
         if (nuevoSaldo >= 0) {
             saldo = nuevoSaldo;
@@ -31,7 +31,7 @@ public class CuentaBancaria {
         }
     }
     
-    // ✅ MÉTODOS ESPECÍFICOS que controlan la lógica
+    // MÉTODOS ESPECÍFICOS que controlan la lógica
     public void depositar(double cantidad) {
         if (cantidad > 0) {
             saldo += cantidad;
@@ -52,24 +52,9 @@ public class CuentaBancaria {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*
+    FUNDAMENTOS POO: HERENCIA, POLIMORFISMO Y ABSTRACCIÓN
+*/
 
 
 // 🐾 SUPERCLASE (Clase Padre)
@@ -104,13 +89,13 @@ public class Perro extends Animal {
         raza = razaPerro;
     }
     
-    // 🔁 SOBREESCRITURA - Modificamos el comportamiento del padre
+    // SOBREESCRITURA - Modificamos el comportamiento del padre
     @Override
     public void hacerSonido() {
         System.out.println(nombre + " dice: ¡Guau guau! 🐶");
     }
     
-    // ✨ MÉTODO NUEVO - Solo los perros tienen este método
+    // MÉTODO NUEVO - Solo los perros tienen este método
     public void moverCola() {
         System.out.println(nombre + " está moviendo la cola feliz 🐕");
     }
@@ -125,7 +110,7 @@ public class Gato extends Animal {
         vidas = 7;
     }
     
-    // 🔁 SOBREESCRITURA diferente para Gato
+    // SOBREESCRITURA diferente para Gato
     @Override
     public void hacerSonido() {
         System.out.println(nombre + " dice: ¡Miau miau! 🐱");

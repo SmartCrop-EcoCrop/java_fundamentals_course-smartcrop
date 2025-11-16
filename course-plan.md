@@ -37,13 +37,13 @@
 
 ## Lección 8: Introducción a la POO: Clases y Objetos ([Sebastian](https://github.com/SRT0808))
 * **Descripción**: El gran salto a la Programación Orientada a Objetos (POO). Aprende qué son las Clases, Objetos, constructores y métodos simples.
-* **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
+* **Enlace**: https://youtu.be/xn74uZY-Rrw
+* **Práctica**: https://onlinegdb.com/tdKgM6FEj
 
 ## Lección 9: Principios Básicos de POO ([Sebastian](https://github.com/SRT0808))
 * **Descripción**: Entiende los conceptos fundamentales de la POO como la Encapsulación (usando getters/setters) e instanciación simple.
-* **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
+* **Enlace**: https://youtu.be/oaqPo8Fk1o8
+* **Práctica**: https://onlinegdb.com/FaKO3ed_sb
 
 ## Lección 10: Desarrollo de un Programa Básico POO ([JhosepAC](https://github.com/JhosepAC))
 * **Descripción**: ¡Hora de combinar todo! Desarrolla una aplicación POO simple, como un registro de estudiantes o un juego de adivinanzas.
