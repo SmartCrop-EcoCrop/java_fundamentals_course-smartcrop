@@ -36,18 +36,18 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 5: Estructuras de Control (Fernando)
 * **Descripción**: Haz que tu programa tome decisiones con sentencias `if-else` y repita tareas con bucles `for` y `while`.
-* **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
+* **Enlace**: https://youtu.be/-87wxTevk_k
+* **Práctica**: https://onlinegdb.com/Zp_iZK6ICa
 
 ### Lección 6: Métodos (Funciones) y Parámetros (Fernando)
 * **Descripción**: Aprende a crear bloques de código reutilizables (métodos) que pueden recibir información (parámetros).
-* **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
+* **Enlace**: https://youtu.be/ntdEnbByTpQ 
+* **Práctica**: https://onlinegdb.com/JXq3dVWZDG 
 
 ### Lección 7: Entrada/Salida Básica (Fernando)
 * **Descripción**: Aprende cómo tu programa puede recibir información del usuario usando la consola (Scanner).
-* **Enlace**: `[YouTube – No listado] (pendiente)`
-* **Práctica**: `[Clic para programar en OnlineGDB] (pendiente)`
+* **Enlace**: https://youtu.be/1T_B3lCsrTI
+* **Práctica**: https://onlinegdb.com/lmubpvi3Ow
 
 ### Lección 8: Introducción a la POO: Clases y Objetos ([Sebastian](https://github.com/SRT0808))
 * **Descripción**: El gran salto a la Programación Orientada a Objetos (POO). Aprende qué son las Clases, Objetos, constructores y métodos simples.
