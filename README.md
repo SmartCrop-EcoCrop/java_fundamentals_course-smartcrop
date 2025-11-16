@@ -65,13 +65,13 @@ java-fundamentals-course-smartcrop/
 - ✅ Variables y tipos de datos
 - ✅ Operadores y expresiones
 - ✅ Arrays y cadenas de texto
-- 🔲 Estructuras de control (if-else, bucles)
-- 🔲 Métodos y parámetros
-- 🔲 Entrada/salida con Scanner
-- 🔲 Clases y objetos (POO)
-- 🔲 Encapsulación (getters/setters)
-- 🔲 Proyecto final POO
-- 🔲 Mejores prácticas
+- ✅ Estructuras de control (if-else, bucles)
+- ✅ Métodos y parámetros
+- ✅ Entrada/salida con Scanner
+- ✅ Clases y objetos (POO)
+- ✅ Encapsulación (getters/setters)
+- ✅ Proyecto final POO
+- ✅ Mejores prácticas
 
 ## 👥 Equipo de Desarrollo
 
