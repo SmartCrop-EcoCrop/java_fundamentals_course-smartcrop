@@ -14,7 +14,7 @@ public class Leccion6 {
      int resultado = factorial(n);
      int s = 5;
      int resultado2 = factorial(s);
-    System.out.println("El pacorial de " + n + " Es: " + resultado);
-     System.out.println("El pacorial de " + s + " Es: " + resultado2);
+    System.out.println("El facorial de " + n + " Es: " + resultado);
+     System.out.println("El facorial de " + s + " Es: " + resultado2);
   }
 }
